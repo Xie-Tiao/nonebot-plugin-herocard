@@ -3,8 +3,8 @@
 <p align="center"> 用于提取本子🥵标题关键词的 NoneBot2 插件</p></br>
 
 <p align="center">
-  <a href="https://pypi.python.org/pypi/nonebot_plugin_herocard">
-    <img src="https://img.shields.io/pypi/v/nonebot_plugin_herocard?style=flat-square" alt="pypi">
+  <a href="https://pypi.python.org/pypi/nonebot-plugin-herocard">
+    <img alt="PyPI" src="https://img.shields.io/pypi/v/nonebot-plugin-herocard?color=%23da3f3d">
   </a>
   <img src="https://img.shields.io/badge/python-3.9-blue?style=flat" alt="python"><br />
 </p></br>
@@ -14,9 +14,9 @@
 使用以下命令之一快速安装：
 
 ``` 
-nb plugin install nonebot_plugin_herocard
+nb plugin install nonebot-plugin-herocard
 
-pip install --upgrade nonebot_plugin_herocard
+pip install --upgrade nonebot-plugin-herocard
 ```
 重启 Bot 即可体验此插件。
 
@@ -40,5 +40,8 @@ pip install --upgrade nonebot_plugin_herocard
 
 **更新日志**
 
-`1.0.1` 完善了README.md
-`1.0.0` 首次发布
+`1.0.2` 修复一点README.md问题
+
+`1.0.1` 修复一点README.md问题
+
+`1.0.0` 首次发布，完善了README.md
