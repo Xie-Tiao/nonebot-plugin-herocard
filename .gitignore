@@ -2,3 +2,9 @@ config.py
 moji.ipynb
 moji.py
 setup.py
+dist/nonebot-plugin-herocard-1.0.0.tar.gz
+nonebot_plugin_herocard/__pycache__/__init__.cpython-311.pyc
+nonebot_plugin_herocard.egg-info/dependency_links.txt
+nonebot_plugin_herocard.egg-info/PKG-INFO
+nonebot_plugin_herocard.egg-info/SOURCES.txt
+nonebot_plugin_herocard.egg-info/top_level.txt
