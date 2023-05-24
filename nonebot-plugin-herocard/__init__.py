@@ -40,8 +40,7 @@ async def test_handle(bot:Bot, event: MessageEvent):
                 text_list.append(edit_text)
         for text in text_list:
             msg = hero(text)
-            print(msg)
+            # print(msg)
             await hero_assistant.finish(str(msg))
     else:
         await hero_assistant.finish("呜...出错了，前后加个'。'再试试？")
-
