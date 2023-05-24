@@ -23,7 +23,7 @@ pip install --upgrade nonebot-plugin-herocard
 **使用方法**
 
  - 发送 `[作者さん]テーマ[中国翻訳] [DL版]`格式消息即可收到回复
- - 发送 `(2020 Summer)テーマ(subtitle) (31P) (完)`格式消息即可收到回复
+ - 发送 `(2020 Summer)テーマ(subtitle) (31P) (完)。`格式消息即可收到回复
 
 *\* 插件响应基于正则匹配，所以，甚至`回馈lz[作者さん]テーマ (31P)我感觉很顶`这样的指令都可用！*
 - **注意：** 
@@ -39,6 +39,7 @@ pip install --upgrade nonebot-plugin-herocard
 > 新人ざぁこ♡一枚，代码写的烂，最好别指望我能修什么bug！Ciallo～(∠・ω< )⌒☆
 
 **更新日志**
+
 `1.0.3` 修改了编译问题
 
 `1.0.2` 修复一点README.md问题
