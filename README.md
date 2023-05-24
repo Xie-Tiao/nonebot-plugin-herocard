@@ -1,4 +1,4 @@
-# nonebot-plugin-herocard
+# nonebot_plugin_herocard
 > 简单做了个插件
 
 ## Update log
