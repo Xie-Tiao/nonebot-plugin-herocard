@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://pypi.python.org/pypi/nonebot_plugin_herocard">
-    <img alt="PyPI" src="https://img.shields.io/pypi/v/nonebot-plugin-herocard?color=%23da3f3d">
+    <img src="https://img.shields.io/pypi/v/nonebot_plugin_herocard?style=flat-square" alt="pypi">
   </a>
   <img src="https://img.shields.io/badge/python-3.9-blue?style=flat" alt="python"><br />
 </p></br>
