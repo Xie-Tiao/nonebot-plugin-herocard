@@ -41,4 +41,5 @@ pip install --upgrade nonebot_plugin_herocard
 **更新日志**
 
 `1.0.1` 完善了README.md
+**更新日志**
 `1.0.0` 首次发布
