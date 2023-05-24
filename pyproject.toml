@@ -1,0 +1,19 @@
+[project]
+name = "nonebot-plugin-herocard"
+version = "1.0.0"
+description = "用于提取本子🥵标题关键词的 NoneBot2 插件"
+authors = [
+    {name = "Xie-Tiao", email = "1183004468@qq.com"},
+]
+license = "MIT"
+dependencies = ["nonebot2>=2.0.0b2", "nonebot-adapter-onebot>=2.0.0b1"]
+requires-python = ">=3.8"
+readme = "README.md"
+
+[project.urls]
+Homepage = "https://github.com/Xie-Tiao/nonebot_plugin_herocard"
+Repository = "https://github.com/Xie-Tiao/nonebot_plugin_herocard"
+
+[build-system]
+requires = ["pdm-pep517>=0.12.0"]
+build-backend = "pdm.pep517.api"
