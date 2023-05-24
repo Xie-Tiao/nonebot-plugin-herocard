@@ -39,6 +39,7 @@ pip install --upgrade nonebot-plugin-herocard
 > 新人ざぁこ♡一枚，代码写的烂，最好别指望我能修什么bug！Ciallo～(∠・ω< )⌒☆
 
 **更新日志**
+`1.0.3` 修改了编译问题
 
 `1.0.2` 修复一点README.md问题
 
