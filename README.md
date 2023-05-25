@@ -33,7 +33,7 @@ pip install --upgrade nonebot-plugin-herocard
 
 **特别鸣谢**
 
-[@nonebot/nonebot2](https://github.com/nonebot/nonebot2/) | [@Mrs4s/go-cqhttp](https://github.com/Mrs4s/go-cqhttp) | [@monsterxcn/nonebot_plugin_epicfree](https://github.com/monsterxcn/nonebot_plugin_epicfree) | [@initialencounter/nonebot-plugin-cube](https://github.com/initialencounter/nonebot-plugin-cube/tree/main)
+[@nonebot/nonebot2](https://github.com/nonebot/nonebot2/) | [@monsterxcn/nonebot_plugin_epicfree](https://github.com/monsterxcn/nonebot_plugin_epicfree) | [@initialencounter/nonebot-plugin-cube](https://github.com/initialencounter/nonebot-plugin-cube/tree/main)
 
 
 > 新人ざぁこ♡一枚，代码写的烂，最好别指望我能修什么bug！Ciallo～(∠・ω< )⌒☆
