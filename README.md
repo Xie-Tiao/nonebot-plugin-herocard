@@ -6,7 +6,8 @@
   <a href="https://pypi.python.org/pypi/nonebot-plugin-herocard">
     <img alt="PyPI" src="https://img.shields.io/pypi/v/nonebot-plugin-herocard?color=%23da3f3d">
   </a>
-  <img src="https://img.shields.io/badge/python-3.9-blue?style=flat" alt="python"><br />
+  <img src="https://img.shields.io/badge/python-3.8+-blue?style=flat" alt="python">
+  <br />
 </p></br>
 
 **安装方法**
