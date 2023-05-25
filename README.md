@@ -31,9 +31,18 @@ pip install --upgrade nonebot-plugin-herocard
   2.  若出现`None`回复或是`不回复`，可以考虑在您**想要提取文本**的前后加上`。`/`.` =>中英文句号均可
 
 
+<details>
+<summary><b>使用示例【图】<b></summary>
+<img decoding="async" loading="lazy" src="https://github.com/Xie-Tiao/My-Imgurl/blob/main/nonebot_plugin_herocard_1.jpg"  width="216" height="710" >
+
+</details>
+  
+---
+ 
+  
 **特别鸣谢**
 
-[@nonebot/nonebot2](https://github.com/nonebot/nonebot2/) | [@Mrs4s/go-cqhttp](https://github.com/Mrs4s/go-cqhttp) | [@monsterxcn/nonebot_plugin_epicfree](https://github.com/monsterxcn/nonebot_plugin_epicfree) 
+[@nonebot/nonebot2](https://github.com/nonebot/nonebot2/) | [@monsterxcn/nonebot_plugin_epicfree](https://github.com/monsterxcn/nonebot_plugin_epicfree) | [@initialencounter/nonebot-plugin-cube](https://github.com/initialencounter/nonebot-plugin-cube/tree/main)
 
 
 > 新人ざぁこ♡一枚，代码写的烂，最好别指望我能修什么bug！Ciallo～(∠・ω< )⌒☆
