@@ -1,6 +1,6 @@
 <h1 align="center">NoneBot Plugin HeroCard</h1></br>
 
-<p align="center"> 用于提取本子🥺是标题关键词的 NoneBot2 插件</p></br>
+<p align="center"> 用于提取本子😇标题关键词的 NoneBot2 插件</p></br>
 
 <p align="center">
   <a href="https://pypi.python.org/pypi/nonebot-plugin-herocard">
