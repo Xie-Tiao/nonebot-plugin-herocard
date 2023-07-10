@@ -1,6 +1,6 @@
 [project]
 name = "nonebot-plugin-herocard"
-version = "1.0.4"
+version = "1.0.5"
 description = "用于提取本子🥵标题关键词的 NoneBot2 插件"
 authors = [
     {name = "Xie-Tiao", email = "1183004468@qq.com"},
