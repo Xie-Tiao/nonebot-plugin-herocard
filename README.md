@@ -37,7 +37,7 @@ _\* 插件响应基于正则匹配，所以，甚至`朋友#(阴险)  你现在�
 <details>
 <summary><b>使用示例【图】<b></summary>
 <img decoding="async" loading="lazy" src="https://github.com/Xie-Tiao/My-Imgurl/blob/main/nonebot_plugin_herocard_1.jpg"  width="216" height="710" >
-
+<img decoding="async" loading="lazy" src="https://github.com/Xie-Tiao/My-Imgurl/blob/main/nonebot_plugin_herocard_2.jpg"  width="147" height="710" >
 </details>
   
 ---
